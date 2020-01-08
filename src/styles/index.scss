@@ -1,0 +1,8 @@
+
+@import 'variable';
+/* Use the variables */
+h1 {
+   color: $font-color;
+   font-size: $font-size;
+   background-color: $primary-color
+}

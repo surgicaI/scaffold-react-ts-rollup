@@ -1,0 +1,10 @@
+$font-stack:Helvetica, sans-serif;
+$primary-color: #333333;
+$font-size: 20px;
+$font-color: #ff00ff;
+
+h3 {
+    color: $font-color;
+    font-size: $font-size;
+    background-color: $primary-color;
+}
