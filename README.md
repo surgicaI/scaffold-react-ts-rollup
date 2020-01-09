@@ -1,13 +1,14 @@
-<p align="center">Scaffold React + Typescript + Rollup</p>
 
-# scaffold-react-ts-rollup
+
+# <p align="center">Scaffold React + Typescript + Rollup</p>
 
 This repo is a scaffolding project which comprise of following
 
     1) React
     2) Typescript
     3) Rollup for building
-    4) Jest ( TS Jest)
+    4) Jest ( TS Jest )
+    5) StoryBook
 
 ## Usage
 
